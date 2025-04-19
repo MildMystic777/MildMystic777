@@ -6,7 +6,7 @@
   <h3>Senior Software Developer </h3>
 </div>
 
-I’m a tech-driven coder with a passion for Web3 that ignited my programming journey.  
+I’m a full stack developer with a passion for Web3 that ignited over the years, I build my programming journey.  
 Ready to collaborate and build something epic? Let’s connect!  
 
 ---
