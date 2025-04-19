@@ -28,6 +28,14 @@ Ready to collaborate and build something epic? Let’s connect!
 ---
 
 
+## GitHub in Motion
+
+<div align="center">
+
+    
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AimTheSun&theme=shadow_blue&hide_border=true&cache_bust=319)
+
+</div>
 ---
 
 <!-- Waving Footer -->
