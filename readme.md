@@ -14,7 +14,7 @@ Ready to collaborate and build something epic? Let’s connect!
 ## What’s Cooking? 🍳
 
 - 🔭 **Currently building**: Full-Stack goodness and chasing clean UI/UX vibes  
-- 🌱 **Master in**: Solidity, and the art of clean code  
+- 🌱 **Learning**: Solidity, and the art of web3 code  
 - 💭 **Dreaming**: Web3 innovations that change the game  
 
 ---
